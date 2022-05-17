@@ -1,0 +1,9 @@
+Paris;London;3;N/A
+London;Ottava;17;7
+Ottava;SPb;4;N/A
+SPb;Moscow;1;N/A
+Moscow;Rim;17;N/A
+Rim;Mexico;9;N/A
+Rim;SPb;6;30
+NYC;Mexico;100;N/A
+NYC;Paris;17;15
